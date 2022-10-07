@@ -1,0 +1,1 @@
+Está carpeta persiste el archivo que persiste la información
